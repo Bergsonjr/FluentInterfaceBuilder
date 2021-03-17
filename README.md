@@ -1,5 +1,5 @@
  <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Chuckie Finster" title="Code" src="https://i.pinimg.com/originals/49/75/86/497586976df92a1b7658f930c1bc299e.png" />
 </h1>
 
 <p align="center">
