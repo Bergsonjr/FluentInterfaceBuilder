@@ -1,5 +1,5 @@
 import { expect, describe, test } from "@jest/globals";
-import FluentSQLBuilder from "../src/fluentSQL";
+import FluentSQLBuilder from "../src/fluentSQL.js";
 
 const data = [
   {
